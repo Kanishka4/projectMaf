@@ -1,0 +1,24 @@
+{
+  "name": "projectmaf",
+  "version": "1.0.0",
+  "description": "e-commerce website",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanishka4/projectMaf.git"
+  },
+  "author": "kanishka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanishka4/projectMaf/issues"
+  },
+  "homepage": "https://github.com/Kanishka4/projectMaf#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
